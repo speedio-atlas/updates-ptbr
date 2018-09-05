@@ -4,6 +4,10 @@
 ## Atualizações recentes
 A versão em funcionamento atualmente é `18.09.1`. [Veja as novidades!](changelog/18.09.1.md)
 
+## Atualizações anteriores
+- [`18.09.1`](changelog/18.09.1.md)
+- [`18.08.2`](changelog/18.08.2.md)
+
 ## Versionamento
 Cada versão é enumerada de acordo com o formato `$ANO.$MÊS.$VERSÃO`, consistindo em:
 - Os dois últimos dígitos do ano (e.g. `18`);
