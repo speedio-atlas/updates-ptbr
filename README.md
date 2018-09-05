@@ -1,2 +1,2 @@
-# updates-ptbr
-Listas de atualizações do sistema Atlas organizadas por patch
+# Atualizações do Speedio Atlas
+> Este repositório contém as listas de atualizações do sistema Atlas.
