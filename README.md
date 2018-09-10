@@ -2,9 +2,11 @@
 > Este repositório contém as listas de atualizações do sistema Atlas.
 
 ## Atualizações recentes
-A versão em funcionamento atualmente é `18.09.1`. [Veja as novidades!](changelog/18.09.1.md)
+A versão em funcionamento atualmente é `18.09.2`. [Veja as novidades!](changelog/18.09.2.md)
 
-## Atualizações anteriores
+## Todas as atualizações
+- [`18.09.3`](changelog/18.09.3.md)
+- [`18.09.2`](changelog/18.09.2.md)
 - [`18.09.1`](changelog/18.09.1.md)
 - [`18.08.2`](changelog/18.08.2.md)
 
